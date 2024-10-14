@@ -4,7 +4,7 @@
 
 let number = 50;
 
-for (let index = 1; index <= number; index++) {
+for (let i = 1; i <= number; i++) {
     console.log(index);    
 }
 
