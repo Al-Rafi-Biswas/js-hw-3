@@ -5,7 +5,7 @@
 let number = 50;
 
 for (let i = 1; i <= number; i++) {
-    console.log(index);    
+    console.log(i);    
 }
 
 
